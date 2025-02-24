@@ -6,7 +6,7 @@ Not every opportunity results in a successful sale. To keep the pipeline up-to-d
 opportunities need to be identified. Specifying why an opportunity was lost helps identify recurring issues, reveal coaching opportunities, and can assist with improving overall sales strategy.
 
 .. seealso::
-   :doc:`Merging lost opportunities with active ones will pull them back into the pipeline. </merge_similar.rst>`
+   :doc:`Merging lost opportunities with active ones will pull them back into the pipeline. <../merge_similar.rst>`
 
 
 Mark an opportunity as lost
@@ -114,7 +114,7 @@ opportunities on the :guilabel:`Pipeline` page.
    To see all opportunities in the database, remove the default :guilabel:`My Pipeline` filter from
    the search bar.
 
-Then, select the Kanban card of the lost opportunity to restore, and on the form, select :guilabel:Restore in the upper-left corner.
+Then, select the Kanban card of the lost opportunity to restore, and on the form, select :guilabel:`Restore` in the upper-left corner.
 
 .. image:: lost_opportunities/lost-opps-restore.png
    :alt: Lost opportunity with emphasis on the Restore button.
